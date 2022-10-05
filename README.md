@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EbD75
+- 👋 Hi, I’m @Re_tr0
 - 👀 I’m interested in coding stuff and making video games.
 - 🌱 I’m currently learning python, lua, C & C++.
 - 💞️ I’m looking to collaborate on games projects.
