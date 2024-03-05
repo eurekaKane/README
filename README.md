@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Re_tr0
+- 👋 Hi, I’m yanrel
 - 👀 I’m interested in coding stuff and making video games.
 - 🌱 I’m currently learning python, lua, C & C++.
 - 💞️ I’m looking to collaborate on every projects.
